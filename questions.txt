@@ -1,0 +1,14 @@
+<Case1>
+I have appoinment at 18pm, with A.
+"B said, 'Can you have dinner at 18?'"
+->No
+
+<Case2>
+I am a vegetarian.
+"How about pork belly for dinner tonight?"
+-> No
+
+<Case3>
+My hobby is running.
+"Do you like to work out?"
+-> Yes
