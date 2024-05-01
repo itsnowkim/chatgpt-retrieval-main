@@ -1,9 +1,5 @@
 # chatgpt-retrieval
 
-Simple script to use ChatGPT on your own files.
-
-Here's the [YouTube Video](https://youtu.be/9AXP7tCI9PI).
-
 ## Installation
 ```
 conda create -n gpt python=3.11
