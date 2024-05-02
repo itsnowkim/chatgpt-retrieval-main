@@ -1,0 +1,6 @@
+<Chat 3>
+C [16:15] - Hey, have you heard about those new running shoes that just came out?
+Me [16:20] - Yeah, I've seen some ads for them. They look pretty sleek.
+C [16:25] - I'm thinking of getting a pair. Maybe we could go check them out together sometime.
+Me [16:30] - That sounds like a good idea. Let me know when you're planning to go.
+C [16:35] - How about this weekend? We could go for a run along the Han River and test them out.

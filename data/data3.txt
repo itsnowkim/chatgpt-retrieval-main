@@ -1,3 +1,7 @@
-<Case3>
-My hobby is running.
-
+<Chat 4>
+Me [16:50] - Hey, are you free next weekend for dinner?
+D [16:55] - Yeah, I think so. What's up?
+Me [17:00] - I was thinking we could catch up over dinner. How does that sound?
+D [17:05] - Sounds great! What were you thinking?
+Me [17:10] - Well, I don't know about that yet, but what do you want to eat?
+D [17:15] - How about some Korean BBQ? I've been craving some samgyeopsal.

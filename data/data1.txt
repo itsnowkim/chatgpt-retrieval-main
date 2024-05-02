@@ -1,0 +1,9 @@
+<Chat 1>
+A [14:30] - Are you free later tonight at 6pm?
+Me [15:32] - Yes. But why did you ask?
+A [15:38] - I was going to ask you to dinner later.
+A [15:38] - How about near Isu Station?
+Me [15:40] - Okay. We'll figure out what to eat when we meet.
+A [15:50] - I'll be standing in front of exit 2, so I'll meet you there.
+Me [15:52] - Okay, I'll call you when I get there.
+

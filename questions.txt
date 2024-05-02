@@ -1,14 +1,15 @@
 <Case1>
 I have appoinment at 18pm, with A.
 "B said, 'Can you have dinner at 18?'"
+B : "Hey, are you free later tonight at 6pm? There's this new movie out I really want to see!"
 ->No
 
 <Case2>
 I am a vegetarian.
-"How about pork belly for dinner tonight?"
+"How about some Korean BBQ? I've been craving some samgyeopsal."
 -> No
 
 <Case3>
 My hobby is running.
-"Do you like to work out?"
+"How about this weekend? We could go for a run along the Han River and test them out."
 -> Yes
