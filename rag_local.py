@@ -58,11 +58,11 @@ with open('./data/my_persona.txt', 'r') as file:
   # 파일 내용을 읽어 변수에 저장
   Persona = file.read()
   # Persona = format_texts([Persona])
-print(f"My Persona is : {Persona}")
+# print(f"My Persona is : {Persona}")
 
 # Generate Answer
 template = """
-Answer the question based only on the following context.
+Write a reply to the speaker based only on the following context.
 In context, you should answer the other person in the position of 'me'.
 Generate a natural answer to the question based on the given {persona}'.
 :
