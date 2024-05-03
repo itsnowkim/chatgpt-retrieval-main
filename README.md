@@ -39,11 +39,6 @@ pip install --upgrade --quiet  langchain langchain-community langchainhub langch
 예시 실행 방법
 ```
 > python rag_local.py "B [16:05] - Hey, are you free later tonight at 6pm? There's this new movie out I really want to see!""
-
-```
-
-Test reading `data/cat.pdf` file.
-```
-> python chatgpt.py "what is my cat's name"
 Me [16:15] - Sorry, I already have plans for dinner tonight. Maybe we can catch that movie another time though!
 ```
+
